@@ -37,7 +37,7 @@
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
-![Snake animation](https://github.com/Gustavo-Orlandini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
