@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Orlandini&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div> -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Gustavo-Orlandini&bg_color=000000&color=fbff00&line=ffffff&point=00ff04&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Gustavo-Orlandini&bg_color=000000&color=fbff00&line=ffffff&point=00ff04&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <div align="center">  
 <a href="https://www.instagram.com/gugaorlandini/" target="_blank">
