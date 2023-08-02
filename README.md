@@ -32,6 +32,7 @@
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+![WhoCanUse](https://img.shields.io/badge/-whocanuse-0D1117?style=for-the-badge&logo=whocanuse&labelColor=0D1117)&nbsp;
 
   
   <div align="center">
