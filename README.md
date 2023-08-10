@@ -9,7 +9,7 @@
 
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Gustavo-Orlandini&bg_color=000000&color=fbff00&line=ffffff&point=00ff04&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
-<div align="order">  
+<div align="center">  
 <a href="https://www.instagram.com/gugaorlandini/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
@@ -20,6 +20,7 @@
   
 
 ### Main skills and tools:
+</div>
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;  
@@ -41,7 +42,6 @@
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![WhoCanUse](https://img.shields.io/badge/-whocanuse-0D1117?style=for-the-badge&logo=whocanuse&labelColor=0D1117)&nbsp;
-</div>
   
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
