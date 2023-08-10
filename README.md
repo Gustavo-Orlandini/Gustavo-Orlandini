@@ -18,7 +18,7 @@
 </a>
 </div>
   
-
+<div align="center">
 ### Main skills and tools:
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
@@ -41,7 +41,7 @@
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![WhoCanUse](https://img.shields.io/badge/-whocanuse-0D1117?style=for-the-badge&logo=whocanuse&labelColor=0D1117)&nbsp;
-
+</div>
   
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
