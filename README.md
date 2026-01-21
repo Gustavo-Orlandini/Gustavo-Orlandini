@@ -8,7 +8,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello!;Welcome+to+my+GitHub+:%29)](https://git.io/typing-svg)
 
----
 
 ## 👨‍💻 Frontend
 
@@ -22,7 +21,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
----
 
 ## 🧠 Backend & APIs
 
@@ -32,7 +30,6 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white)&nbsp;
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)&nbsp;
 
----
 
 ## 🗄️ Bancos de Dados
 
@@ -41,14 +38,12 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
 
----
 
 ## 📱 Mobile
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
 
----
 
 ## ☁️ Cloud, Containers & DevOps
 
@@ -59,7 +54,6 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)&nbsp;
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
----
 
 ## 🧪 Qualidade & Boas Práticas
 
@@ -69,14 +63,12 @@
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge)&nbsp;
 ![SOLID](https://img.shields.io/badge/SOLID-Principles-2C3E50?style=for-the-badge)&nbsp;
 
----
 
 ## 🎨 Design & Produto
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![UX/UI](https://img.shields.io/badge/UX%2FUI-Design-9C27B0?style=for-the-badge)&nbsp;
 
----
 
 ## 🛠️ Ferramentas
 
@@ -84,13 +76,10 @@
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)&nbsp;
 
----
+
 
 <div align="center">
-  <br>
-  <p><b>Visitors Count</b></p>
-  <img src="https://profile-counter.glitch.me/Gustavo-Orlandini/count.svg" />
-  <br>
+  <img src="https://visitorbadge.io/api/visitors?path=Gustavo-Orlandini&label=Visitors&countColor=%23000080" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=180&section=footer"/>
